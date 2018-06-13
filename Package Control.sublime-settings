@@ -14,6 +14,7 @@
 		"EditorConfig",
 		"Emmet",
 		"GitGutter",
+		"JsPrettier",
 		"Package Control",
 		"SideBarEnhancements",
 		"SublimeLinter",

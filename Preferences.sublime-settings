@@ -38,10 +38,10 @@
 	"line_padding_bottom": 1,
 	"line_padding_top": 1,
 	"margin": 50,
+	"scroll_past_end": true,
 	"show_tab_close_buttons": false,
 	"spell_check": false,
 	"theme": "Boxy Tomorrow.sublime-theme",
 	"translate_tabs_to_spaces": false,
-	"trim_trailing_white_space_on_save": true,
-    "scroll_past_end": true
+	"trim_trailing_white_space_on_save": true
 }
