@@ -1,0 +1,25 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"1337 Color Scheme",
+		"AdvancedNewFile",
+		"Alignment",
+		"Boxy Theme",
+		"Color Highlighter",
+		"ColorPicker",
+		"EditorConfig",
+		"Emmet",
+		"GitGutter",
+		"Package Control",
+		"SideBarEnhancements",
+		"SublimeLinter",
+		"SublimeLinter-tslint",
+		"Super Calculator",
+		"Theme - Cobalt2",
+		"TypeScript"
+	]
+}
