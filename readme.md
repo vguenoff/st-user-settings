@@ -1,3 +1,2 @@
-
-#Sublime Settings (Windows):
-C:\Users\\**USERNAME**\AppData\Roaming\Sublime Text 3\Packages\User
+# Sublime Settings (Windows):
+/c/Users/USERNAME/AppData/Roaming/Sublime\ Text\ 3/Packages/User/

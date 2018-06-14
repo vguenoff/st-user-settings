@@ -10,4 +10,5 @@
 	{ "keys": ["ctrl+shift+]"], "command": "unfold" },
 	{ "keys": ["ctrl+alt+p"], "command": "prompt_select_workspace" },
 	{ "keys": ["ctrl+s"], "command": "save_all" },
+	{ "keys": ["ctrl+enter"], "command": "goto_definition" },
 ]

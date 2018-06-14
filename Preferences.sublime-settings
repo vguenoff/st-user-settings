@@ -21,7 +21,8 @@
 		"*.jar",
 		"*.zip",
 		"node_modules/**",
-		"dist/**"
+		"dist/**",
+		".next/**"
 	],
 	"bold_folder_labels": true,
 	"caret_style": "solid",
@@ -37,7 +38,7 @@
 	],
 	"line_padding_bottom": 1,
 	"line_padding_top": 1,
-	"margin": 50,
+	// "margin": 50,
 	"scroll_past_end": true,
 	"show_tab_close_buttons": false,
 	"spell_check": false,
