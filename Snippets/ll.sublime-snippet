@@ -1,0 +1,8 @@
+<snippet>
+<content><![CDATA[
+console.log($1);
+]]></content>
+<tabTrigger>ll</tabTrigger>
+<description>console.log()</description>
+<scope>source.tsx, meta.class.tsx, meta.method.declaration.tsx, meta.block.tsx, source.js, meta.class.js, meta.method.declaration.js, meta.block.js</scope>
+</snippet>
