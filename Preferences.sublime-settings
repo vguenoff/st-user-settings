@@ -45,5 +45,9 @@
 	"spell_check": false,
 	"theme": "Boxy Tomorrow.sublime-theme",
 	"translate_tabs_to_spaces": false,
-	"trim_trailing_white_space_on_save": true
+	"trim_trailing_white_space_on_save": true,
+	"indent_guide_options":
+	[
+		"draw_active"
+	],
 }
