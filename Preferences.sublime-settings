@@ -36,6 +36,10 @@
 	[
 		"Vintage"
 	],
+	"indent_guide_options":
+	[
+		"draw_active"
+	],
 	"indent_to_bracket": true,
 	"line_padding_bottom": 1,
 	"line_padding_top": 1,
@@ -45,10 +49,5 @@
 	"spell_check": false,
 	"theme": "Boxy Tomorrow.sublime-theme",
 	"translate_tabs_to_spaces": false,
-	"trim_trailing_white_space_on_save": true,
-	"indent_guide_options":
-	[
-		"draw_active"
-	],
-    "highlight_modified_tabs": true
+	"trim_trailing_white_space_on_save": true
 }
